@@ -1,0 +1,27 @@
+{
+    "name": "herminigildosebastiao/bank-phishing",
+    "description": "Simulador de Phishing usando SMS",
+    "authors": [
+        {
+            "name": "Herminigildo Ali Sebastião",
+            "email": "herminigildosebastiaoali@gmail.com",
+            "role": "Developer Back End",
+            "homepage": "https://sebash.tech"
+        },
+        {
+            "name": "Cleiton Alimo Lemos",
+            "email": "cleitonlemos729@gmail.com",
+            "role": "Developer Front End"
+        }
+    ],
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
+        "files": [
+            "config/env.php"
+        ]
+    }
+}
