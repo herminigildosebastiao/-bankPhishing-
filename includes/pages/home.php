@@ -1,8 +1,9 @@
 <section class="container">
     <div class="details">
         <img src="<?= "../public/images/security.png" ?>" style="width: 70px;" alt="">
-        <h1 style="margin: 30px 0;">Lorem ipsum dolor</h1>
-        <p>Sit amet consectetur adipisicing elit. Harum ducimus fuga ullam numquam obcaecati. Aliquam iure tempore est dolores dolor, doloribus quibusdam rerum architecto iusto in accusantium, sit voluptatem! Nesciunt</p>
+        <h1 style="margin: 30px 0;">Verificação de Vazamento de Cartões</h1>
+        <p>Proteja seus dados! Verifique rapidamente se seu cartão foi comprometido em um vazamento recente. Digite suas informações com segurança e receba orientações imediatas sobre como proceder em caso de risco.</p>
+        <p>⚠️ Atenção: Nunca compartilhe seu PIN com ninguém!</p>
     </div>
     <div class="form">
         <h1>Verificar cartão</h1>

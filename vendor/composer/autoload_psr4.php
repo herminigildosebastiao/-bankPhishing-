@@ -6,5 +6,6 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
+    'TelegramBot\\Api\\' => array($vendorDir . '/telegram-bot/api/src'),
     'App\\' => array($baseDir . '/app'),
 );
